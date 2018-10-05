@@ -1,0 +1,8 @@
+{
+  "name": "exercicio01",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "ace52f17"
+}
